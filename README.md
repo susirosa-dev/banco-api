@@ -210,7 +210,7 @@ project/
 │   └── utils/
 │       └── errorHandler.js
 ├── rest/
-│   ├── app.js
+│   ├── s
 │   ├── controllers/
 │   │   ├── contaController.js
 │   │   ├── loginController.js
